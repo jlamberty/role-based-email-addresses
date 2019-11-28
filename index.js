@@ -374,6 +374,7 @@ module.exports = [
   'frontoffice',
   'fte',
   'ftp',
+  'fuck',
   'fulltime',
   'fun',
   'fundraising',
